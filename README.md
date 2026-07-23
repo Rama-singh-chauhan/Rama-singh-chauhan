@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rama Singh Chauhan</h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS | GCP | Docker | Kubernetes | Terraform | CI/CD</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+ 
+ <img align="right" alt="DevOps" width="400"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG96c2Q4eXV2NnA5ZHR2d3g4dXVpdzh0a3N0bDJyaW05a2h4d2M5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif">
 
 ## 🚀 About Me
 
