@@ -4,8 +4,8 @@
 <h3 align="center">Cloud & DevOps Engineer | AWS | GCP | Docker | Kubernetes | Terraform | CI/CD</h3>
 
  
- <img align="right" alt="DevOps" width="400"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG96c2Q4eXV2NnA5ZHR2d3g4dXVpdzh0a3N0bDJyaW05a2h4d2M5MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif">
+ <img align="right" alt="Coding" width="400"
+src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f645213.gif">
 
 ## 🚀 About Me
 
