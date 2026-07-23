@@ -1,4 +1,5 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+![logo](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Rama%20Singh%20Chauhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20Engineer%20%7C%20AWS%20%7C%20GCP%20%7C%20Kubernetes&descAlignY=58)
 
 <h1 align="center">Hi 👋, I'm Rama Singh Chauhan</h1>
 <h3 align="center">Cloud & DevOps Engineer | AWS | GCP | Docker | Kubernetes | Terraform | CI/CD</h3>
